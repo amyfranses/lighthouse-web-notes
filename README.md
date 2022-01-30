@@ -8,3 +8,6 @@ This repositiry contains all of the notes taken by [Amy](https://github.com/amyf
 
 - [Week 1](/Week_1)
   - [Day 1](/Week_1/Day_1)
+
+- [Week 2](/Week_2)
+
